@@ -32,5 +32,7 @@ src/pages/ - application pages
 ## Installation and launch
 
 Clone the repository
+
 Install the dependencies: pnpm install
+
 Run the project: pnpm dev
